@@ -1,0 +1,1 @@
+Create config.py file containing a variable to store API credentials: API_KEY = 'YOUR_API_KEY'
